@@ -1,0 +1,5 @@
+total 24
+-rw-r--r--  1 artexmg  staff  1064 Apr 11 18:45 LICENSE
+-rw-r--r--  1 artexmg  staff    31 Apr 11 18:45 README.md
+-rw-r--r--  1 artexmg  staff     0 Apr 11 18:49 files.txt
+-rw-r--r--  1 artexmg  staff    26 Apr 11 18:48 start.txt
